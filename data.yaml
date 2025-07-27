@@ -1,0 +1,38 @@
+names:
+  0: animal
+  1: bear
+  2: bull
+  3: camel
+  4: cheetah
+  5: crocodile
+  6: deer
+  7: dog
+  8: elephant
+  9: fox
+  10: giraffe
+  11: hippo
+  12: lion
+  13: monkey
+  14: pig
+  15: poacher
+  16: ranger
+  17: rhino
+  18: tiger
+  19: turkey
+  20: weapon
+  21: zebra
+  22: horse
+  23: hyena
+  24: sheep
+  25: cow
+  26: sloth bear
+  27: wild-boar
+  28: leopard
+  29: hedgehog
+  30: lynx
+  31: ostrich
+  32: human
+nc: 33
+test: /path/to/test/images
+train: /path/to/train/images
+val: /path/to/val/images
