@@ -6,7 +6,7 @@
 
 Every year, wildlife faces increasing threats from poaching, habitat destruction, and delayed intervention. **Eco-Sense** was developed with the vision of using Artificial Intelligence to assist forest authorities in monitoring wildlife and responding to critical situations more efficiently.
 
-The system uses **YOLOv5** and **Convolutional Neural Networks (CNNs)** to detect animals, poachers, weapons, and forest rangers from images and video streams. It also provides an interactive web interface that enables users to upload Excel datasets for trend analysis, helping authorities gain valuable insights into wildlife activity and conservation efforts.
+The system uses **YOLOv5** and **Convolutional Neural Networks (CNNs)** to detect animals, poachers, weapons, and forest rangers from images streams. It also provides an interactive web interface that enables users to upload Excel datasets for trend analysis, helping authorities gain valuable insights into wildlife activity and conservation efforts.
 
 Eco-Sense demonstrates how AI can serve as a digital guardian for forests by combining intelligent detection, data analytics, and an accessible web application.
 
@@ -16,7 +16,7 @@ Eco-Sense demonstrates how AI can serve as a digital guardian for forests by com
 
 - 🦌 Real-time wildlife detection using AI
 - 🚨 Detection of poachers, weapons, and forest rangers
-- 📷 Supports image and video-based monitoring
+- 📷 Supports image-based monitoring
 - 📊 Excel upload for historical trend analysis
 - 🌐 Interactive web application for monitoring and visualization
 - 📈 AI-powered insights to support wildlife conservation
